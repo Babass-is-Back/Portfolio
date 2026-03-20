@@ -1278,3 +1278,12 @@ section,
   border-radius: 5px;
   margin-left: 8px;
 }
+
+.compact-list {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.compact-list li {
+  margin-bottom: 2px; /* réduit l’espace */
+}
