@@ -1285,7 +1285,9 @@ section,
 }
 
 .compact-list li {
-  margin-bottom: 1px; /* réduit l’espace */
+  margin: 0;
+  padding: 0;
+  line-height: 1.2;
 }
 
 .list-title {
