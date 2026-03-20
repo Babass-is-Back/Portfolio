@@ -1287,3 +1287,9 @@ section,
 .compact-list li {
   margin-bottom: 2px; /* réduit l’espace */
 }
+
+.list-title {
+  list-style: none;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
