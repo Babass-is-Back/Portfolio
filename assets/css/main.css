@@ -1305,3 +1305,10 @@ section,
   background: var(--accent-color);
   margin-bottom: 12px; /* espace après la barre */
 }
+
+.skill-icon {
+  width: 16px;
+  height: 16px;
+  margin-right: 6px;
+  vertical-align: middle;
+}
