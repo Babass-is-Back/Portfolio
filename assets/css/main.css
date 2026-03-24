@@ -1324,3 +1324,9 @@ section,
   border-radius: 20px;
   z-index: 10;
 }
+
+.loading,
+.error-message,
+.sent-message {
+  display: none;
+}
