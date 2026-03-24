@@ -849,7 +849,6 @@ section,
   color: #ffffff;
   display: inline-block;
   background-color: var(--accent-color);
-  border-radius: 20px;
 }
 
 .portfolio .portfolio-content .portfolio-info p {
